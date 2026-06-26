@@ -65,6 +65,6 @@ Still mapping the route — but that's half the fun.
 ## Let's Connect *(soon. maybe)*
 
 - 🌐 Portfolio — *not yet*
-- 🐦 Twitter — *same thing*
+- 🐦 X/twitter — *x.com/Zenwitr*
 
 ---
