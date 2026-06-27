@@ -48,7 +48,7 @@ I like to learn as I go and figure things out myself, not wanting to rely on oth
 Cybersecurity  →  Cryptography  →  IoT  →  ???
 ```
 
-Still mapping the route.. but that's half the fun.
+Still mapping the route.. but that's half the fun!
 
 ---
 
