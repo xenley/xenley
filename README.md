@@ -8,7 +8,7 @@
 
 ---
 
-I'm new to handling social media — always been an outsider, never been one to be as public as I am now. This is a journey and I'm here for it, step-by-step.
+I'm new to handling social media ive always been an outsider, never been one to be as public as I am now. This is a journey and I'm here for it, step by step.
 
 I like to learn as I go and figure things out myself, not wanting to rely on other people or production to do daily **Cyber Security** tasks. Always willing to learn something new or do something that's out of my comfort zone.
 
@@ -48,7 +48,7 @@ I like to learn as I go and figure things out myself, not wanting to rely on oth
 Cybersecurity  →  Cryptography  →  IoT  →  ???
 ```
 
-Still mapping the route — but that's half the fun.
+Still mapping the route.. but that's half the fun.
 
 ---
 
