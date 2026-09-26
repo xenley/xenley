@@ -8,9 +8,10 @@
 
 ---
 
-I'm new to handling social media ive always been an outsider, never been one to be as public as I am now. This is a journey and I'm here for it, step by step.
+I'm new to handling social media, please go easy on me.
+This is a journey and I'm here for it!
 
-I like to learn as I go and figure things out myself, not wanting to rely on other people or production to do daily **Cyber Security** tasks. Always willing to learn something new or do something that's out of my comfort zone.
+I like to learn as I go and figure things out myself, not wanting to rely on other people or production to do daily tasks. Always willing to learn something new or do something that's out of my comfort zone.
 
 ---
 
@@ -35,17 +36,16 @@ I like to learn as I go and figure things out myself, not wanting to rely on oth
 
 ## Fun Facts!
 
-- Currently learning: **IoT embedded devices & working with micro controller's**
+- Currently learning: **IoT embedded devices & building and configurating network infrastructure**.
 - Goals:
-  1. Level up from basic cryptography to advanced
-  2. Decide whether to go straight into CySecurityrity studies, or start at **IoT Devices** and build up from the programming layer
+  1. Be advanced with **IoT Devices** and build up from the programming layer as in assembly.
 
 ---
 
 ## What I'm Exploring
 
 ```
-Cybersecurity  →  Cryptography  →  IoT  →  ???
+Cybersecurity  →  Network Infrastructure  →  Cryptography  →  IoT  →  Assembly  → ???
 ```
 
 Still mapping the route.. but that's half the fun!
@@ -65,6 +65,6 @@ Still mapping the route.. but that's half the fun!
 ## Let's Connect *(soon. maybe)*
 
 - 🌐 Portfolio — *not yet*
-- 🐦 X/twitter — *x.com/Zenwitr*
+- 🐦 BlueSky – bsky.app/profile/fenzly.bsky.social
 
 ---
